@@ -4,6 +4,10 @@ Attach files to markdown file and sync them across the network with a p2p file-s
 
 Attachments are live. You can update attached files, add new files... etc and it will automatically sync across peers.
 
+```
+npm i markdown-attachment-p2p
+```
+
 ## Usage
 
 ```js
