@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "markdown",
+    "dat",
+    "attachment"
+  ],
+  "repository": "poga/markdown-attachment-p2p",
   "scripts": {
     "test": "tape test/*.js"
   },
