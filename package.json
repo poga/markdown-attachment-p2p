@@ -1,0 +1,19 @@
+{
+  "name": "markdown-attachment-p2p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Poga Po<poga.bahamut@gmail.com>",
+  "dependencies": {
+    "dat-js": "^4.0.0",
+    "front-matter": "^2.1.0",
+    "yaml": "^0.3.0"
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.4",
+    "tape": "^4.6.2"
+  }
+}
